@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "15221686772",
+    "project_id": "mural-252c2",
+    "storage_bucket": "mural-252c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15221686772:android:c05a6aa9cb7a2ef1bf39a1",
+        "android_client_info": {
+          "package_name": "com.proyectofinal.mural"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15221686772-mr7pdsmn9nhb9hjur2hsmfpbvvvaqr2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfXRL3YSW1hSemPk1wncV0ndEAUqQ1XhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15221686772-mr7pdsmn9nhb9hjur2hsmfpbvvvaqr2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
