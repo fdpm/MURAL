@@ -18,4 +18,5 @@ public class RegistroActivity extends AppCompatActivity {
                     .commitNow();
         }
     }
+    //Comentario de prueba
 }
